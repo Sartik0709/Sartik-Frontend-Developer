@@ -1,0 +1,87 @@
+.navbar{
+    width: 100vw;
+    height:72px;
+    top: 0.42px;
+    left: 0.46px;
+    gap: 0px;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    opacity: 0px;
+    position: fixed;
+    /* padding-left: 64px;
+    padding-right: 64px; */
+    border-bottom: 1px solid;
+    border-image-source: linear-gradient(90deg, rgba(0, 0, 0, 0.63) 0%, rgba(255, 255, 255, 0.02) 100%);
+
+
+ 
+}
+.navbar1{
+    width: 1312px;;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    /* background-color: aqua; */
+    align-items: center;
+    /* gap: 0px;
+    opacity: 0px; */
+    display: flex;
+    justify-content: space-between;
+}
+.Aigen{
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 25.2px;
+    letter-spacing: 0.5em;
+    text-align: left;   
+}
+.nav1{
+    width: 444px;
+    display: flex;
+    justify-content: space-between;
+    width: 440px;
+    align-items: center;
+}
+.nav12{
+    font-family: Outfit;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 24px;  
+    text-align: left;
+
+}
+.nav2{
+    width: 279px;
+    display: flex;
+    /* background-color: burlywood; */
+    justify-content: space-between;    
+    align-items: center;
+}
+.nav21{
+    width: 134px;
+    border-radius: 4px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    background: rgba(255, 255, 255, 0.3);
+    /* background-color: #FA75F8; */
+}
+.nav22{
+    background: linear-gradient(90deg, #9E6EE5 0%, #FA75F8 100%);
+    width: 133px;
+    border-radius: 4px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    /* background: rgba(0, 0, 0, 0.2);
+    background: linear-gradient(90deg, #9E6EE5 0%, #FA75F8 100%); */
+
+}
